@@ -1,0 +1,30 @@
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "0gc-3D-tH2"; */
+"0gc-3D-tH2.title" = "Profile";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "70a-pj-3I3"; */
+"70a-pj-3I3.title" = "Item";
+
+/* Class = "UILabel"; text = "“You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.”"; ObjectID = "BIg-XE-bOo"; */
+"BIg-XE-bOo.text" = "“You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.”";
+
+/* Class = "UIButton"; normalTitle = "Update Language"; ObjectID = "FC2-z7-TxT"; */
+"FC2-z7-TxT.normalTitle" = "Update Language";
+
+/* Class = "UILabel"; text = "“Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”"; ObjectID = "SKP-pY-mGu"; */
+"SKP-pY-mGu.text" = "“Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "Wyl-9J-3DL"; */
+"Wyl-9J-3DL.title" = "Setting";
+
+/* Class = "UILabel"; text = "“Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me.”"; ObjectID = "ioz-RR-yOO"; */
+"ioz-RR-yOO.text" = "“Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me.”";
+
+/* Class = "UINavigationItem"; title = "Select Language"; ObjectID = "nTf-Hv-6lR"; */
+"nTf-Hv-6lR.title" = "Select Language";
+
+/* Class = "UIButton"; normalTitle = "Select Language"; ObjectID = "x2b-Te-bxm"; */
+"x2b-Te-bxm.normalTitle" = "Select Language";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "xVR-hl-rKK"; */
+"xVR-hl-rKK.title" = "Home";
